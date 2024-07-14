@@ -1,0 +1,22 @@
+{
+    "sourceFile": "pubspec.yaml",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 1,
+            "patches": [
+                {
+                    "date": 1720997203640,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1720997211444,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -5,9 +5,9 @@\n repository: https://github.com/AhmedLSayed9/dropdown_button2/tree/master\n issue_tracker: https://github.com/AhmedLSayed9/dropdown_button2/issues\n \n environment:\n-  sdk: \">=.17.0 <3.0.0\"\n+  sdk: \">=3.0.0 <4.0.0\"\n   flutter: \">=3.0.0\"\n \n dependencies:\n   flutter:\n"
+                }
+            ],
+            "date": 1720997203640,
+            "name": "Commit-0",
+            "content": "name: dropdown_button2\ndescription: Flutter's core Dropdown Button widget with steady dropdown menu and many options you can customize to your needs.\nversion: 1.9.4\nhomepage: https://github.com/AhmedLSayed9/dropdown_button2\nrepository: https://github.com/AhmedLSayed9/dropdown_button2/tree/master\nissue_tracker: https://github.com/AhmedLSayed9/dropdown_button2/issues\n\nenvironment:\n  sdk: \">=.17.0 <3.0.0\"\n  flutter: \">=3.0.0\"\n\ndependencies:\n  flutter:\n    sdk: flutter\n\ndev_dependencies:\n  flutter_test:\n    sdk: flutter\n  flutter_lints: ^1.0.0"
+        }
+    ]
+}

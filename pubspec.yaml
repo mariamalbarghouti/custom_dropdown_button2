@@ -6,7 +6,7 @@ repository: https://github.com/AhmedLSayed9/dropdown_button2/tree/master
 issue_tracker: https://github.com/AhmedLSayed9/dropdown_button2/issues
 
 environment:
-  sdk: ">=2.17.0 <3.0.0"
+  sdk: ">=3.0.0 <4.0.0"
   flutter: ">=3.0.0"
 
 dependencies:
